@@ -1,0 +1,28 @@
+{
+    "id": "47F4F87F",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1670789805183.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "df1603fad907434ca2bf970c99029914",
+        "name": "hexagramas",
+        "title": "hexagramas",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1621706215,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1670789805183,
+    "read_only": false,
+    "read_only_alternatives": []
+}
